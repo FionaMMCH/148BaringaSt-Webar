@@ -1,7 +1,11 @@
-MORNINGSIDE WEBAR V3
+MORNINGSIDE WEBAR V4
 
-Upload index.html, sofa.glb, coffee-table.glb and dining-table.glb into the root of your existing GitHub Pages repository. Upload index.html as an update/replacement. Do not upload the ZIP itself. Wait a few minutes and open your existing Pages link with ?v=6 appended.
+Upload ALL files in this folder (not the ZIP itself) to the ROOT of your existing GitHub Pages repository, replacing index.html and any matching filenames.
 
-Three furniture buttons are interactive. Each launches ONE model. iPhone Quick Look may support pinch-to-scale but behavior varies; scaling invalidates the original dimensions. Models are simplified and are not ready for final real estate marketing. Dining model is table only (no chairs).
+Required: index.html, sofa.jpg, coffee-table.jpg, dining-set.jpg, sofa.glb, coffee-table.glb, dining-set.glb. README.txt is optional.
 
-This site uses model-viewer library loaded from Google CDN and requires internet.
+After commit, wait for GitHub Pages deployment and test the URL in Safari with ?v=4.
+
+The photos are cropped from the user-provided AI-generated mockup; they are illustrative, not photographs of real products. The 3D furniture models are original simplified approximations, not photorealistic models.
+
+The AR experience uses model-viewer; Safari Quick Look compatibility and resizing may vary.
